@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.baidu.com/posts/itsneko-opensource-blog.html</loc>
+    <loc>https://www.baidu.com/gallery/%E8%B5%B5%E4%BB%8A%E9%BA%A6/index.html</loc>
+    
+    <lastmod>2022-08-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.baidu.com/posts/articletemplate.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.baidu.com/posts/articletemplate.html</loc>
+    <loc>https://www.baidu.com/posts/itsneko-opensource-blog.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -30,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://www.baidu.com/about/index.html</loc>
+    <loc>https://www.baidu.com/books/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -51,7 +58,14 @@
   </url>
   
   <url>
-    <loc>https://www.baidu.com/books/index.html</loc>
+    <loc>https://www.baidu.com/about/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.baidu.com/count/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -72,14 +86,14 @@
   </url>
   
   <url>
-    <loc>https://www.baidu.com/essay/index.html</loc>
+    <loc>https://www.baidu.com/gallery/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.baidu.com/gallery/index.html</loc>
+    <loc>https://www.baidu.com/essay/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -93,21 +107,14 @@
   </url>
   
   <url>
-    <loc>https://www.baidu.com/lab/index.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.baidu.com/count/index.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.baidu.com/musics/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.baidu.com/lab/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -121,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.baidu.com/record/index.html</loc>
+    <loc>https://www.baidu.com/ticktack/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -135,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://www.baidu.com/ticktack/index.html</loc>
+    <loc>https://www.baidu.com/videos/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.baidu.com/videos/index.html</loc>
+    <loc>https://www.baidu.com/record/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
