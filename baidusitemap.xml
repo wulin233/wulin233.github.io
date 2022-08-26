@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.baidu.com/posts/12120.html</loc>
+    <loc>https://www.wulin.cool/posts/articletemplate.html</loc>
+    <lastmod>2022-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.wulin.cool/posts/essay-demo.html</loc>
+    <lastmod>2022-08-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.wulin.cool/posts/12120.html</loc>
     <lastmod>2022-08-24</lastmod>
   </url>
   <url>
-    <loc>https://www.baidu.com/posts/64181.html</loc>
-    <lastmod>2022-08-24</lastmod>
-  </url>
-  <url>
-    <loc>https://www.baidu.com/posts/itsneko-opensource-blog.html</loc>
+    <loc>https://www.wulin.cool/posts/articletemplate.html</loc>
     <lastmod>2022-01-18</lastmod>
   </url>
   <url>
-    <loc>https://www.baidu.com/posts/articletemplate.html</loc>
+    <loc>https://www.wulin.cool/posts/itsneko-opensource-blog.html</loc>
     <lastmod>2022-01-18</lastmod>
   </url>
   <url>
-    <loc>https://www.baidu.com/posts/essay-demo.html</loc>
+    <loc>https://www.wulin.cool/posts/essay-demo.html</loc>
     <lastmod>2022-01-18</lastmod>
   </url>
 </urlset> 
