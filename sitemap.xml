@@ -37,27 +37,6 @@
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/404.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.wulin.cool/categories/index.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.wulin.cool/books/index.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.wulin.cool/about/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
@@ -65,21 +44,7 @@
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/contact/index.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.wulin.cool/donate/index.html</loc>
-    
-    <lastmod>2022-01-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.wulin.cool/count/index.html</loc>
+    <loc>https://www.wulin.cool/404.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -93,7 +58,42 @@
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/gallery/index.html</loc>
+    <loc>https://www.wulin.cool/collection/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wulin.cool/categories/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wulin.cool/contact/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wulin.cool/books/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wulin.cool/count/index.html</loc>
+    
+    <lastmod>2022-01-18</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.wulin.cool/donate/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/musics/index.html</loc>
+    <loc>https://www.wulin.cool/gallery/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/project/index.html</loc>
+    <loc>https://www.wulin.cool/musics/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/record/index.html</loc>
+    <loc>https://www.wulin.cool/project/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/collection/index.html</loc>
+    <loc>https://www.wulin.cool/qingdan/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.wulin.cool/qingdan/index.html</loc>
+    <loc>https://www.wulin.cool/record/index.html</loc>
     
     <lastmod>2022-01-18</lastmod>
     
